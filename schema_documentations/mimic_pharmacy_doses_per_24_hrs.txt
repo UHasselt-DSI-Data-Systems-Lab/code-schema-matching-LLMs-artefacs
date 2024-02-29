@@ -1,0 +1,1 @@
+The number of expected doses per 24 hours. Note that this column can be misleading for continuously infused medications as they are usually only “dosed” once per day, despite continuous administration.

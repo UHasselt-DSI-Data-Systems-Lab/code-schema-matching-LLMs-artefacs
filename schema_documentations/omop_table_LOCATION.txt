@@ -1,0 +1,1 @@
+The LOCATION table represents a generic way to capture physical location or address information of Persons and Care Sites.

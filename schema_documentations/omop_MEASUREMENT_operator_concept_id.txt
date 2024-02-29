@@ -1,0 +1,1 @@
+The meaning of Concept 4172703 for ‘=’ is identical to omission of a OPERATOR_CONCEPT_ID value. Since the use of this field is rare, it’s important when devising analyses to not to forget testing for the content of this field for values different from =.

@@ -1,0 +1,1 @@
+This field houses the verbatim result value of the Measurement from the source data .

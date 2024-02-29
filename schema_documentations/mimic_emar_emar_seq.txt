@@ -1,0 +1,1 @@
+Identifiers for the eMAR table. emar_id is a unique identifier for each order made in eMAR. emar_seq is a consecutive integer which numbers eMAR orders chronologically. emar_id is composed of subject_id and emar_seq in the following pattern: ‘subject_id-emar_seq’.

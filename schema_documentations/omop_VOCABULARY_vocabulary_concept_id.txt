@@ -1,0 +1,1 @@
+A Concept that represents the Vocabulary the VOCABULARY record belongs to.

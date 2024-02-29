@@ -1,0 +1,1 @@
+A monotonically increasing integer which chronologically sorts the POE orders. That is, POE orders can be ordered sequentially by poe_seq.

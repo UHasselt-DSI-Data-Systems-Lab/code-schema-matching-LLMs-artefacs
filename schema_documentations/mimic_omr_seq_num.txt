@@ -1,0 +1,1 @@
+An monotonically increasing integer which uniquely distinguishes results of the same type recorded on the same day. For example, if two blood pressure measurements occur on the same day, seq_num orders them chronologically.

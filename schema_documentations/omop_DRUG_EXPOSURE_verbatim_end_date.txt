@@ -1,0 +1,1 @@
+This is the end date of the drug exposure as it appears in the source data, if it is given

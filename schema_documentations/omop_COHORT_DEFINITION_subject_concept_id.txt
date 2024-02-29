@@ -1,0 +1,1 @@
+This field contains a Concept that represents the domain of the subjects that are members of the cohort (e.g., Person, Provider, Visit).

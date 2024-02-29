@@ -1,0 +1,1 @@
+If the drug has a relevant expiry date, these columns detail when this occurs. expiration_value and expiration_unit provide a length of time until the drug expires, e.g. 30 days, 72 hours, and so on. expirationdate provides the deidentified date of expiry.

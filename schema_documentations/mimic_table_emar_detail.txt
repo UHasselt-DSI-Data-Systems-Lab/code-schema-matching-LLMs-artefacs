@@ -1,0 +1,1 @@
+The emar_detail table contains information for each medicine administration made in the EMAR table. Information includes the associated pharmacy order, the dose due, the dose given, and many other parameters associated with the medical administration.

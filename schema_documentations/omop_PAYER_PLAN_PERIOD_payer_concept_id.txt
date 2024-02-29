@@ -1,0 +1,1 @@
+This field represents the organization who reimburses the provider which administers care to the Person.

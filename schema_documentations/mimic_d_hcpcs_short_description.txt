@@ -1,0 +1,1 @@
+Textual descriptions of the code listed for the given row.

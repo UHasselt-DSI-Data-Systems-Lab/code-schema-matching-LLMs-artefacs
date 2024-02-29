@@ -1,0 +1,1 @@
+A Concept representing the Domain Concept the DOMAIN record belongs to.

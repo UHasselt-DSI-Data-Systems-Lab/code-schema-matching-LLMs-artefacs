@@ -1,0 +1,1 @@
+duration is the numeric duration of the given dose, while duration_interval can be considered as the unit of measurement for the given duration. For example, often duration is 1 and duration_interval is “Doses”. Alternatively, duration could be 8 and the duration_interval could be “Weeks”.

@@ -1,0 +1,1 @@
+The prescribed dose for the patient intended to be administered over the given time period.

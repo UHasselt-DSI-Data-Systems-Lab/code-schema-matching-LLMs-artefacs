@@ -1,0 +1,1 @@
+Upper and lower reference ranges indicating the normal range for the laboratory measurements. Values outside the reference ranges are considered abnormal.

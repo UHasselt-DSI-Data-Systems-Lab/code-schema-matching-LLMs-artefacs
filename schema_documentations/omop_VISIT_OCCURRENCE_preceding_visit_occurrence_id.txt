@@ -1,0 +1,1 @@
+Use this field to find the visit that occurred for the person prior to the given visit. There could be a few days or a few years in between.

@@ -1,0 +1,1 @@
+This field is meant to capture the biological sex at birth of the Person. This field should not be used to study gender identity issues.

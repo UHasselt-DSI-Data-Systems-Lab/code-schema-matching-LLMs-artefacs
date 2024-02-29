@@ -1,0 +1,1 @@
+This field houses the verbatim value from the source data representing the device exposure that occurred. For example, this could be an NDC or Gemscript code.

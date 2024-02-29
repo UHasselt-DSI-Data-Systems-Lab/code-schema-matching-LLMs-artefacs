@@ -1,0 +1,1 @@
+The time at which the medication was administered.

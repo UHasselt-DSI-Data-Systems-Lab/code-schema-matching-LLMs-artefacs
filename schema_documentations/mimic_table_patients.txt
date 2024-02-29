@@ -1,0 +1,1 @@
+Information that is consistent for the lifetime of a patient is stored in this table.

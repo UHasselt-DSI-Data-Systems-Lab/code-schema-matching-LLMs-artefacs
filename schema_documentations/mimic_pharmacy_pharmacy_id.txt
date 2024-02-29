@@ -1,0 +1,1 @@
+A unique identifier for the given pharmacy entry. Each row of the pharmacy table has a unique pharmacy_id. This identifier can be used to link the pharmacy information to the provider order (in poe or prescriptions) or to the administration of the medication (in emar).

@@ -1,0 +1,1 @@
+Character offset of the extracted term in the input note

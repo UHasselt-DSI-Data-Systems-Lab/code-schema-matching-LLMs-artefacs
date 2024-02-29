@@ -1,0 +1,1 @@
+Information about the administration. Most frequently event_txt is ‘Administered’, but other possible values are ‘Applied’, ‘Confirmed’, ‘Delayed’, ‘Not Given’, and so on.

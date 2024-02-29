@@ -1,0 +1,1 @@
+A free-text description of the composition of the prescribed medication (e.g. ‘12 mg / 0.8 mL Oral Syringe’, ‘12.5mg Tablet’, etc).

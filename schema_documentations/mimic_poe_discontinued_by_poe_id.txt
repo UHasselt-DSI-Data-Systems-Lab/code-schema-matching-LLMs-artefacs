@@ -1,0 +1,1 @@
+If this order discontinues a previous order, then discontinue_of_poe_id will link to the previous order which was discontinued. Conversely, if this order was later discontinued by a distinct order, then discontinued_by_poe_id will link to that future order.

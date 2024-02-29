@@ -1,0 +1,1 @@
+An integer which is unique for every row in the table.

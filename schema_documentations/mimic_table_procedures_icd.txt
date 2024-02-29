@@ -1,0 +1,1 @@
+During routine hospital care, patients are billed by the hospital for procedures they undergo. This table contains a record of all procedures a patient was billed for during their hospital stay using the ICD-9 and ICD-10 ontologies.

@@ -1,0 +1,1 @@
+This field contains all attributes specifying the clinical fact further, such as as degrees, severities, drug-drug interaction alerts etc.

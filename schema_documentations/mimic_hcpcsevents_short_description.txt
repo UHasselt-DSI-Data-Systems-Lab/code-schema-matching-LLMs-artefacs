@@ -1,0 +1,1 @@
+A short textual descriptions of the hcpcs_cd listed for the given row.

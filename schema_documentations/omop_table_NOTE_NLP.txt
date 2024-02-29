@@ -1,0 +1,1 @@
+The NOTE_NLP table encodes all output of NLP on clinical notes. Each row represents a single extracted term from a note.

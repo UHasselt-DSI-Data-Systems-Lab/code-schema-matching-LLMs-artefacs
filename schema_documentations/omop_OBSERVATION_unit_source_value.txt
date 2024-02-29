@@ -1,0 +1,1 @@
+This field houses the verbatim value from the source data representing the unit of the Observation that occurred.

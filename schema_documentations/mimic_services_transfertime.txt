@@ -1,0 +1,1 @@
+transfertime is the time at which the patient moved from the prev_service (if present) to the curr_service.

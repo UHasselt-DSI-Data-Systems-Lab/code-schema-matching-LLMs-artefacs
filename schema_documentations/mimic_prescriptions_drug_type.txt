@@ -1,0 +1,1 @@
+The component of the prescription which the drug occupies. Can be one of ‘MAIN’, ‘BASE’, or ‘ADDITIVE’.

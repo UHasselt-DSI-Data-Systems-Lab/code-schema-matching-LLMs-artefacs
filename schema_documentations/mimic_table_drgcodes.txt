@@ -1,0 +1,1 @@
+Diagnosis related groups (DRGs) are used by the hospital to obtain reimbursement for a patient’s hospital stay. The codes correspond to the primary reason for a patient’s stay at the hospital.

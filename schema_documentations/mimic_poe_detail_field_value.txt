@@ -1,0 +1,1 @@
+field_value is the value associated with the given POE order and field_name. For example, for the field_name of ‘Admit to’, the field_value column contains the type of unit the patient was admitted to (Psychiatry, GYN, and so on).

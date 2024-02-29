@@ -1,0 +1,1 @@
+Some DRG ontologies further qualify the patient severity of illness and likelihood of mortality, which are recorded here.

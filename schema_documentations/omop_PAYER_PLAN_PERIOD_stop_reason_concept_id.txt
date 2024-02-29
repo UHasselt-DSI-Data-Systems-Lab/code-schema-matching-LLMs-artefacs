@@ -1,0 +1,1 @@
+This field represents the reason the Person left the Plan, if known.

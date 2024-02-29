@@ -1,0 +1,1 @@
+A unique identifier for a laboratory concept. itemid is unique to each row, and can be used to identify data in labevents associated with a specific concept.

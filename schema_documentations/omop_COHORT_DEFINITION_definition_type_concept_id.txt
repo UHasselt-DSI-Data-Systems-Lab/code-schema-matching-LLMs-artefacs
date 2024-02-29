@@ -1,0 +1,1 @@
+Type defining what kind of Cohort Definition the record represents and how the syntax may be executed.

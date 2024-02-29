@@ -1,0 +1,1 @@
+Whether the order is still active (‘Active’) or whether it has been inactivated (‘Inactive’).

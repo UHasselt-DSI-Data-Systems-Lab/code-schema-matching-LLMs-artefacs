@@ -1,0 +1,1 @@
+A coded letter describing the type of infusion: ‘B’, ‘C’, ‘N’, ‘N1’, ‘O’, or ‘R’.

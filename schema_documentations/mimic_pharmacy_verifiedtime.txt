@@ -1,0 +1,1 @@
+The date and time at which the prescription was verified by a physician.

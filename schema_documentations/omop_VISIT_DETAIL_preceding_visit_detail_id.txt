@@ -1,0 +1,1 @@
+Use this field to find the visit detail that occurred for the person prior to the given visit detail record. There could be a few days or a few years in between.

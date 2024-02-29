@@ -1,0 +1,1 @@
+The provider associated with condition record, e.g. the provider who made the diagnosis or the provider who recorded the symptom.

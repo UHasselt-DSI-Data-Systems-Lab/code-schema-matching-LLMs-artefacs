@@ -1,0 +1,1 @@
+The poe_detail table provides further information on POE orders. The table uses an Entity-Attribute-Value (EAV) model: the entity is poe_id, the attribute is field_name, and the value is field_value. EAV tables allow for flexible description of entities when the attributes are heterogenous.

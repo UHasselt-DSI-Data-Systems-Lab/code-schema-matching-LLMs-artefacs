@@ -1,0 +1,1 @@
+A date to indicate when the Cohort was initiated in the COHORT table.

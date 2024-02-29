@@ -1,0 +1,1 @@
+This table defines International Classification of Diseases (ICD) Version 9 and 10 codes for diagnoses. These codes are assigned at the end of the patient’s stay and are used by the hospital to bill for care provided.

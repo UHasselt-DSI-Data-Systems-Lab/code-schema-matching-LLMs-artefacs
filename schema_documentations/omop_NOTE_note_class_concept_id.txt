@@ -1,0 +1,1 @@
+A Standard Concept Id representing the HL7 LOINC Document Type Vocabulary classification of the note.

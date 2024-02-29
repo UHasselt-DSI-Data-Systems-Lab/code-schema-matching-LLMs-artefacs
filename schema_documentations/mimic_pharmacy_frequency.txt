@@ -1,0 +1,1 @@
+The frequency at which the medication should be administered to the patient. Many commonly used short hands are used in the frequency column. Q# indicates every # hours; e.g. “Q6” or “Q6H” is every 6 hours.

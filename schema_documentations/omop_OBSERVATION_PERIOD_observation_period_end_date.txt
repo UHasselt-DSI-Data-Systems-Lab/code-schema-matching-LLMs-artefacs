@@ -1,0 +1,1 @@
+Use this date to determine the end date of the period for which we can assume that all events for a Person are recorded.

@@ -1,0 +1,1 @@
+The OBSERVATION_CONCEPT_ID field is recommended for primary use in analyses, and must be used for network studies.

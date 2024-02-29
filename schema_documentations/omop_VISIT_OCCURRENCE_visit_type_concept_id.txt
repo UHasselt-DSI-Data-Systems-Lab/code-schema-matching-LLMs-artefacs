@@ -1,0 +1,1 @@
+Use this field to understand the provenance of the visit record, or where the record comes from.

@@ -1,0 +1,1 @@
+The result of the laboratory measurement and, if it is numeric, the value cast as a numeric data type.

@@ -1,0 +1,1 @@
+An identifier which allows linking the eMAR order to pharmacy information provided in the pharmacy table. Note: rarely the same emar_id may have multiple distinct pharmacy_id across rows in the emar_detail table.

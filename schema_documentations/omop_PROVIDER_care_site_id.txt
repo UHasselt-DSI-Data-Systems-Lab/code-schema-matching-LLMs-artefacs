@@ -1,0 +1,1 @@
+This is the CARE_SITE_ID for the location that the provider primarily practices in.

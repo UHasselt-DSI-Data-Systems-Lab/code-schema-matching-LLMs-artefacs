@@ -1,0 +1,1 @@
+The unique key given to a condition record for a person. Refer to the ETL for how duplicate conditions during the same visit were handled.

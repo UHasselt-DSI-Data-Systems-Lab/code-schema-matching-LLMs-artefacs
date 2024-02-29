@@ -1,0 +1,1 @@
+The time at which the administration was documented in the eMAR table.

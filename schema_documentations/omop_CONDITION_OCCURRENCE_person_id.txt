@@ -1,0 +1,1 @@
+The PERSON_ID of the PERSON for whom the condition is recorded.

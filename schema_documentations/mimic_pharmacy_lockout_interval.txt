@@ -1,0 +1,1 @@
+The time the patient must wait until providing themselves with another dose; often used with patient controlled analgesia.

@@ -1,0 +1,1 @@
+The DRUG_EXPOSURE_END_DATE denotes the day the drug exposure ended for the patient.

@@ -1,0 +1,1 @@
+For inpatient visits, the start date is typically the admission date. For outpatient visits the start date and end date will be the same.

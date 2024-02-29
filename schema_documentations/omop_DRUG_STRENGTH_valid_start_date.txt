@@ -1,0 +1,1 @@
+The date when the Concept was first recorded. The default value is 1-Jan-1970.

@@ -1,0 +1,1 @@
+A unique key for each domain.

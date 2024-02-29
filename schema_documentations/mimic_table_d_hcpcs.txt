@@ -1,0 +1,1 @@
+The d_hcpcs table is used to acquire human readable definitions for the codes used in the hcpcsevents table. The concepts primarily correspond to hospital billing, and are mostly CPT codes. Unfortunately due to licensing restrictions not all code definitions are available.

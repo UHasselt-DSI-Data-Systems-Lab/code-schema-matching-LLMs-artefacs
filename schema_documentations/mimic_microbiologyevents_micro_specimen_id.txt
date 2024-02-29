@@ -1,0 +1,1 @@
+Uniquely denoted the specimen from which the microbiology measurement was made. Most microbiology measurements are made on patient derived samples (specimens) such as blood, urine, and so on. Often multiple measurements are made on the same sample. The micro_specimen_id will group measurements made on the same sample, e.g. organisms which grew from the same blood sample.

@@ -1,0 +1,1 @@
+The labevents table stores the results of all laboratory measurements made for a single patient. These include hematology measurements, blood gases, chemistry panels, and less common tests such as genetic assays.

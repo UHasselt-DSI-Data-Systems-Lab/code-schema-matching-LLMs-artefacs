@@ -1,0 +1,1 @@
+A foreign key which links to the provider order entry order in the prescriptions table associated with this pharmacy record.

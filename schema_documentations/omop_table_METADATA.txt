@@ -1,0 +1,1 @@
+The METADATA table contains metadata information about a dataset that has been transformed to the OMOP Common Data Model.

@@ -1,0 +1,1 @@
+Use this date to determine the end date of the condition

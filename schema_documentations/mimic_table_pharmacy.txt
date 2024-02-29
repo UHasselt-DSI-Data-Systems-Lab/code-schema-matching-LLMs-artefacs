@@ -1,0 +1,1 @@
+The pharmacy table provides detailed information regarding filled medications which were prescribed to the patient. Pharmacy information includes the dose of the drug, the number of formulary doses, the frequency of dosing, the medication route, and the duration of the prescription.

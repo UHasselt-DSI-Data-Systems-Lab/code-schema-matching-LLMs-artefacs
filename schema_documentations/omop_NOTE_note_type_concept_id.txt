@@ -1,0 +1,1 @@
+The provenance of the note. Most likely this will be EHR.

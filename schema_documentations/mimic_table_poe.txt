@@ -1,0 +1,1 @@
+Provider order entry (POE) is the general interface through which care providers at the hospital enter orders. Most treatments and procedures must be ordered via POE.

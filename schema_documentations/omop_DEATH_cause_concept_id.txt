@@ -1,0 +1,1 @@
+This is the Standard Concept representing the Person’s cause of death, if available.

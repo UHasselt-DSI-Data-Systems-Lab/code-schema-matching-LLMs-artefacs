@@ -1,0 +1,1 @@
+The date when then Concept became invalid.

@@ -1,0 +1,1 @@
+The EMAR table is used to record administrations of a given medicine to an individual patient. Records in this table are populated by bedside nursing staff scanning barcodes associated with the medicine and the patient.

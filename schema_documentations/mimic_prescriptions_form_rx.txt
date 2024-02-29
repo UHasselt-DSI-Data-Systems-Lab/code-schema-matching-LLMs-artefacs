@@ -1,0 +1,1 @@
+The container in which the formulary dose is delivered (e.g. ‘TABLET’, ‘VIAL’, etc).

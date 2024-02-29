@@ -1,0 +1,1 @@
+Further detail on the type of order made by the provider. The order_subtype is best interpreted alongside the order_type, e.g. order_type: 'Cardiology' with order_subtype: 'Holter Monitor'.

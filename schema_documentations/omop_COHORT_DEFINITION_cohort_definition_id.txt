@@ -1,0 +1,1 @@
+This is the identifier given to the cohort, usually by the ATLAS application

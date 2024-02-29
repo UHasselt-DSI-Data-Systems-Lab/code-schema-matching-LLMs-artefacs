@@ -1,0 +1,1 @@
+The location refers to the physical address of the person. This field should capture the last known location of the person.

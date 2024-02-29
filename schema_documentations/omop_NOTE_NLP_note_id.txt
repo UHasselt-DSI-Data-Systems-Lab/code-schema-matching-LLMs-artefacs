@@ -1,0 +1,1 @@
+This is the NOTE_ID for the NOTE record the NLP record is associated to.

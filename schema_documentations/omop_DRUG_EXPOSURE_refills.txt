@@ -1,0 +1,1 @@
+This is only filled in when the record is coming from a prescription written this field is meant to represent intended refills at time of the prescription.

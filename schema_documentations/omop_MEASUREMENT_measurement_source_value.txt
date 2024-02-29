@@ -1,0 +1,1 @@
+This field houses the verbatim value from the source data representing the Measurement that occurred. For example, this could be an ICD10 or Read code.

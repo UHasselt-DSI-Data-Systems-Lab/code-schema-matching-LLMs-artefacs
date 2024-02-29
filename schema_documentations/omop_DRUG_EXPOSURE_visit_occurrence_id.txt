@@ -1,0 +1,1 @@
+The Visit during which the drug was prescribed, administered or dispensed.

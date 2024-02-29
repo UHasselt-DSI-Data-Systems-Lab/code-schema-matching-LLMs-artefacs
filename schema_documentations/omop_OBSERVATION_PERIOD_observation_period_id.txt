@@ -1,0 +1,1 @@
+A Person can have multiple discrete Observation Periods which are identified by the Observation_Period_Id.

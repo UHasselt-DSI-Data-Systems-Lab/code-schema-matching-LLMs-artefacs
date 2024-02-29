@@ -1,0 +1,1 @@
+The date the Person started on the specific dosage, with at least 31 days since any prior exposure.

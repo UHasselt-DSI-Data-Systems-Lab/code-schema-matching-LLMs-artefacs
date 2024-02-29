@@ -1,0 +1,1 @@
+category provides higher level information as to the type of measurement. For example, a category of ‘ABG’ indicates that the measurement is an arterial blood gas.

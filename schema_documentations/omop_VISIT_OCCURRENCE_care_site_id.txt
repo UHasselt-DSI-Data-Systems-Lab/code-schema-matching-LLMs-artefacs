@@ -1,0 +1,1 @@
+This field provides information about the Care Site where the Visit took place.

@@ -1,0 +1,1 @@
+A brief string mainly used to indicate if the laboratory measurement is abnormal.

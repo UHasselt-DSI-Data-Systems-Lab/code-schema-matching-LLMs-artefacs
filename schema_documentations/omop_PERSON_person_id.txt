@@ -1,0 +1,1 @@
+It is assumed that every person with a different unique identifier is in fact a different person and should be treated independently.

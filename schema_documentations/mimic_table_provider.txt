@@ -1,0 +1,1 @@
+A description table for providers in the database referenced by provider_id. As of MIMIC-IV v2.2, this table simply lists all unique provider_id in the database.

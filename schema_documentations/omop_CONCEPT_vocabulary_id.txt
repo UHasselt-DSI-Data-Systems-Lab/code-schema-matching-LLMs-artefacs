@@ -1,0 +1,1 @@
+A foreign key to the VOCABULARY table indicating from which source the Concept has been adapted.

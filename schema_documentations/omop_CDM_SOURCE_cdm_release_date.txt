@@ -1,0 +1,1 @@
+The release data of the CDM instance.

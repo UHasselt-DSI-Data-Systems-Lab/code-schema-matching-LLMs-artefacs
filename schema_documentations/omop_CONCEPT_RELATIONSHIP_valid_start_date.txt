@@ -1,0 +1,1 @@
+The date when the relationship is first recorded.

@@ -1,0 +1,1 @@
+d_labitems contains definitions for all itemid associated with lab measurements in the MIMIC database. All data in labevents link to the d_labitems table. Each unique (fluid, category, label) tuple in the hospital database was assigned an itemid in this table, and the use of this itemid facilitates efficient storage and querying of the data.

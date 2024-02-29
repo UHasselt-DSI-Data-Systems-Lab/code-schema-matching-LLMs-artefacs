@@ -1,0 +1,1 @@
+A unique identifier for each Vocabulary, such as ICD9CM, SNOMED, Visit.

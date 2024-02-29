@@ -1,0 +1,1 @@
+The Online Medical Record (OMR) table stores miscellaneous information documented in the electronic health record. It is a useful source of outpatient measurements such as blood pressure, weight, height, and body mass index.

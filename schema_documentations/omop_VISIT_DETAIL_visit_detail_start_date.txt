@@ -1,0 +1,1 @@
+This is the date of the start of the encounter. This may or may not be equal to the date of the Visit the Visit Detail is associated with.

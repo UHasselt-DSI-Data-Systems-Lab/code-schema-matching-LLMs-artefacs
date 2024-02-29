@@ -1,0 +1,1 @@
+This field represents the sponsor of the Plan who finances the Plan. This includes self-insured, small group health plan and large group health plan.

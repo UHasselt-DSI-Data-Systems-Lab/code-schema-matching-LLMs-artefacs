@@ -1,0 +1,1 @@
+The location_id from the LOCATION table representing the physical location of the care_site.

@@ -1,0 +1,1 @@
+This is the categorical value of the Result of the Observation, if applicable and available.

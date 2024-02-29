@@ -1,0 +1,1 @@
+Indicates whether the medication should be given on a sliding scale: either ‘Y’ or ‘N’.

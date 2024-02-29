@@ -1,0 +1,1 @@
+An identifier which uniquely denotes laboratory concepts.

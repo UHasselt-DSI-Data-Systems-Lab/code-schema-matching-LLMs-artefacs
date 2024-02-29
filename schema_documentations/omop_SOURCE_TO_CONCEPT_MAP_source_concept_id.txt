@@ -1,0 +1,1 @@
+A foreign key to the Source Concept that is being translated into a Standard Concept.

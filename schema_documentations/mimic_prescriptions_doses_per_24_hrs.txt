@@ -1,0 +1,1 @@
+The number of doses per 24 hours for which the medication is to be given. A daily dose would result in doses_per_24_hrs: 1, bidaily (BID) would be 2, and so on.

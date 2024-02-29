@@ -1,0 +1,1 @@
+A foreign key to the DOMAIN table the Concept belongs to.
