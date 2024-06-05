@@ -1,0 +1,8 @@
+# pandas to load and transform results
+pandas >= 2.2.1
+# sklearn to evaluate results
+scikit-learn >= 1.4.1
+# plotly for visualization
+plotly >= 5.22.0
+# textdistance for baselining
+textdistance >= 4.6.2
