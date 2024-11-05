@@ -4,8 +4,8 @@ This repository contains artefacts for the paper "Schema Matching with Large Lan
 
 ## Table of Contents
 
-To generate results and integrate them, you need to run those notebooks in order:
-* `generate_` notebooks to generate the results. Note that these notebooks use a tool `fm_matcher` that is not included in this repository, yet. This is why we include the results in the `results` folder.
+To generate results and integrate them, make sure you have included the `fm_matcher` submodule. This should work automatically when cloning this repository. Afterwards, you need to run those notebooks in order:
+* `generate_` notebooks to generate the results. Note that these notebooks use a tool `fm_matcher` that accesses the OpenAI API, which needs to be payed. This is why we include the results in the `results` folder.
 * `integration_decisions.ipynb` to integrate the results (`all_decisions_df.csv`)
 
 Afterwards, the integrated decisions can be analyzed with any of the remaining notebooks.
